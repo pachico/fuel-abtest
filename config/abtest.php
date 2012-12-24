@@ -36,8 +36,8 @@ return array(
 		),
 		'button-colour' => array(
 			'versions' => array(
-				'hithere' => 48,
-				'sup' => 123
+				'red' => 48,
+				'blue' => 123
 			)
 		)
 	)
