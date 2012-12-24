@@ -11,7 +11,7 @@ Fuel-Abtest is a simple package to perform AB(C,D, etc.) tests storing results i
 	git clone https://github.com/pachico/fuel-abtest fuel-abtest
 
 In your bootstrap.php file add the following line:
-	\Package::load('fuel-abtest');
+	```\Package::load('fuel-abtest');```
 
 #Usage
 Everything you need to setup your ab tests is inside the config file.
