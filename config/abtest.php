@@ -28,16 +28,10 @@ return array(
 	 * Tests to perform
 	 */
 	'tests' => array(
-		'greeting' => array(
-			'versions' => array(
-				'hithere' => 48,
-				'sup' => 123
-			)
-		),
 		'button-colour' => array(
 			'versions' => array(
-				'red' => 48,
-				'blue' => 123
+				'red' => 75,
+				'green' => 90
 			)
 		)
 	)
